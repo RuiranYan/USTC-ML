@@ -8,7 +8,7 @@ from sklearn import linear_model
 
 def test():
     # init param
-    gamma, lambda_p, max_depth, m = 1, 1, 3, 10
+    gamma, lambda_p, max_depth, m = 1e-6, 1, 3, 10
     # data path
     path = '../data/train.data'
     path2 = '../data/ailerons.test'
