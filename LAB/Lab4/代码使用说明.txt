@@ -1,0 +1,2 @@
+1、如果是jupyter用LDAsklearn.ipynb这个文件
+2、如果是pycharm或者Spyder或者python自己的IDLE用lda.py这个文件

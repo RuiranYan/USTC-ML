@@ -1,0 +1,9 @@
+代码示例：https://mp.weixin.qq.com/s/hMcJtB3Lss1NBalXRTGZlQ （玉树芝兰）
+可视化：https://blog.csdn.net/qq_39496504/article/details/107125284
+sklearn lda参数解读:https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html
+中文版参数解读：https://blog.csdn.net/TiffanyRabbit/article/details/76445909
+LDA原理-视频版：https://www.bilibili.com/video/BV1t54y127U8
+LDA原理-文字版：https://www.jianshu.com/p/5c510694c07e
+score的计算方法：https://github.com/scikit-learn/scikit-learn/blob/844b4be24d20fc42cc13b957374c718956a0db39/sklearn/decomposition/_lda.py#L729
+主题困惑度1：https://blog.csdn.net/weixin_43343486/article/details/109255165
+主题困惑度2：https://blog.csdn.net/weixin_39676021/article/details/112187210
